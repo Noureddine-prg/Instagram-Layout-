@@ -1,0 +1,16 @@
+.main_container {
+    width: 935px;
+    height: 700px;
+    margin: 0px 500px;
+}
+
+.mininav {
+    height: 40px;
+    width: 935px;
+    margin: 0px 500px;
+    justify-content: center;
+}
+
+.main_content {
+    margin: 10px;
+}

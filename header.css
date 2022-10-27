@@ -1,0 +1,44 @@
+.header {
+    display: flex;
+    justify-content: center;
+    margin: 0px 500px;
+    padding: 20px;
+}
+
+.pfp_main {
+    margin: 20px;
+    background-image: url("images/me.jpg");
+    background-size: cover;
+    height: 150px;
+    width: 150px;
+    border-radius: 80px;
+}
+
+.user_info {
+    width: 500px;
+    margin: 60px;
+
+}
+
+.row_1 {
+    display: flex;
+}
+
+.row_1>* {
+    margin: 0px 60px 0px 0px;
+}
+
+.row_1>button {
+    width: 100px;
+
+}
+
+.row_2 {
+    display: flex;
+
+}
+
+.list_content {
+    list-style: none;
+    margin: 15px 65px 10px 0px;
+}
